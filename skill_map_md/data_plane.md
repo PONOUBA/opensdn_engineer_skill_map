@@ -26,7 +26,7 @@ Programming Protocol-Independent Packet Processors
 
 SDN因其能让网络使用者对网络行为进行编程而取得了巨大的成功, 但当前SDN的可编程性局限于SDN控制平面, 数据平面(即包转发逻辑)仍主要由固定功能的交换芯片所决定。而P4编程语言的出现解决了这一窘境，其对交换机内部数据报处理过程的灵活定义让网络设计者可以自上而下地定义数据报的完整处理流程。
 
-P4(www.p4.org)是由斯坦福大学的Nick McKeown教授和普林斯顿大学的Jennifer Rexford教授、以及谷歌、英特尔、微软和 Barefoot Networks共同发起并创立的一个开源项目, P4作为数据平面领域专用语言(DSL)描述了交换机内部对数据报报文的处理逻辑, 从CPU到高端的 ASIC皆有广泛的应用前景。P4开源社区现巳有超过60个成员, 正在开发各种新的网络行为和新的运用, 其成果已在多项国际会议发表, 并在商业部署中取得了突破性的进展。
+P4(www.p4.org) 是由斯坦福大学的Nick McKeown教授和普林斯顿大学的Jennifer Rexford教授、以及谷歌、英特尔、微软和 Barefoot Networks共同发起并创立的一个开源项目, P4作为数据平面领域专用语言(DSL)描述了交换机内部对数据报报文的处理逻辑, 从CPU到高端的 ASIC皆有广泛的应用前景。P4开源社区现巳有超过60个成员, 正在开发各种新的网络行为和新的运用, 其成果已在多项国际会议发表, 并在商业部署中取得了突破性的进展。
 
 ### Resources
 
@@ -42,11 +42,11 @@ Wikipedia: [P4 (programming language)](https://en.wikipedia.org/wiki/P4_(program
 
 #### Github
 
-> P4语言 Github主页：
+**P4语言 Github主页：**
 
 [p4language](https://github.com/p4lang)
 
-> Repository(部分):
+**Repository(部分):**
 
 仓库名称：仓库介绍
 
@@ -64,7 +64,7 @@ Wikipedia: [P4 (programming language)](https://en.wikipedia.org/wiki/P4_(program
 
 #### [SDNLAB](http://www.sdnlab.com)
 
-> 学习类：
+**学习类：**
 
 [P4语言规范](http://www.sdnlab.com/resource/11954.html)
 
@@ -74,7 +74,7 @@ Wikipedia: [P4 (programming language)](https://en.wikipedia.org/wiki/P4_(program
 
 [《P4语言规范》parser详解 ](http://www.sdnlab.com/18021.html)
 
-> 介绍类：
+**介绍类：**
 
 [P4:开创数据平面可编程时代](http://www.sdnlab.com/17795.html)
 
@@ -92,7 +92,7 @@ Wikipedia: [P4 (programming language)](https://en.wikipedia.org/wiki/P4_(program
 
 [P4语言,踢馆OpenFlow的SDN新秀](http://www.sdnlab.com/11884.html)
 
-> 实战类：
+**实战类：**
 
 [P4开源Tutorials实战及对P4规范的初分析](http://www.sdnlab.com/18618.html)
 
@@ -102,7 +102,7 @@ Wikipedia: [P4 (programming language)](https://en.wikipedia.org/wiki/P4_(program
 
 [搭建P4C与P4FPGA联合编译环境](http://www.sdnlab.com/18366.html)
 
-> 会议类：
+**会议类：**
 
 [国内首届P4技术交流圆满成功](http://www.sdnlab.com/18039.html)
 
@@ -110,7 +110,7 @@ Wikipedia: [P4 (programming language)](https://en.wikipedia.org/wiki/P4_(program
 
 [Network Field Day 14–Barefoot Networks](http://www.sdnlab.com/18443.html)
 
-> 资讯类：
+**资讯类：**
 
 [北京邮电大学加入P4项目，系国内首个高校成员单位](http://www.sdnlab.com/17849.html)
 
@@ -124,7 +124,7 @@ Wikipedia: [P4 (programming language)](https://en.wikipedia.org/wiki/P4_(program
 
 #### [sdxcentral](https://www.sdxcentral.com)
 
-> 资讯类：
+**资讯类：**
 
 [Barefoot Networks Steps Into the ONS Spotlight](https://www.sdxcentral.com/articles/news/barefoot-networks-steps-into-the-ons-spotlight/2015/06/)
 
@@ -136,7 +136,7 @@ Wikipedia: [P4 (programming language)](https://en.wikipedia.org/wiki/P4_(program
 
 [Support Builds for P4 to Boost NFV](https://www.sdxcentral.com/articles/analysis/p4-lanugage-to-boost-nfv/2016/06/)
 
-> 介绍类：
+**介绍类：**
 
 [Why Barefoot Networks Decided SDN Needs a New Chip](https://www.sdxcentral.com/articles/news/barefoot-networks/2016/06/)
 
