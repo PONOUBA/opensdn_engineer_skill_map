@@ -14,4 +14,6 @@ Markdown编码约束
 
 "###"为三级标题, 以此类推
 
-![](http://7xnzbp.com1.z0.glb.clouddn.com/wp-content-uploads/2017/03/opensdn_engineer_skill_map_1_1.jpeg)
+![](http://7xnzbp.com1.z0.glb.clouddn.com/wp-content-uploads/2017/03/Open_SDN_skill_map_ch_v2_0.jpg)
+
+![](http://7xnzbp.com1.z0.glb.clouddn.com/wp-content-uploads/2017/03/Open_SDN_skill_map_en_v2_0.jpg)
