@@ -16,4 +16,5 @@ Markdown编码约束
 
 ![](http://7xnzbp.com1.z0.glb.clouddn.com/wp-content-uploads/2017/03/Open_SDN_skill_map_ch_v2_0.jpg)
 
-![](http://7xnzbp.com1.z0.glb.clouddn.com/wp-content-uploads/2017/03/Open_SDN_skill_map_en_v2_0.jpg)
+![](http://7xnzbp.com1.z0.glb.clouddn.com/wp-content-uploads/2017/03/Open_SDN_skill_map_ch_v2_1.jpg)
+
